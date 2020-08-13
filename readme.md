@@ -1,4 +1,4 @@
-<div><img src="https://github.com/Miche-Mario/Chooseme-LARAVEL/issues/1#issuecomment-673438982" alt="heychoosemecap"</div>
+https://github.com/Miche-Mario/Chooseme-LARAVEL/issues/1#issuecomment-673438982
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
