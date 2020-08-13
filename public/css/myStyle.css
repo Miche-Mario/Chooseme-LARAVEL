@@ -1,0 +1,178 @@
+
+.form-group.has-error label{color:#dd4b39}.form-group.has-error .form-control,.form-group.has-error .input-group-addon{border-color:#dd4b39;box-shadow:none}.form-group.has-error .help-block{color:#dd4b39}
+
+        body {
+            font-family: "Lato", CenturyGothic;
+            overflow-x:hidden;
+           
+          
+            /* color: #484848; */
+
+        }
+        span.arrow {
+            margin-left: 12px;
+            height:17px;
+            
+            color:red;
+        }
+      
+    
+
+
+        p {
+            line-height: 25px;font-size:20px;
+        }
+
+        h1{font-size: 45px;font-weight: bold}
+
+        .bg-top-section{
+            background:#ebebeb;
+            max-height:auto; padding-top:50px;
+        }
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+          }
+        .bg-dark-chooseme{
+            background:#ebebeb;
+        }
+
+        .bg-black{
+            background:#323232 ;
+        }
+
+        .block-image-md{
+            height:60%;
+
+           /*  margin-bottom: 5%;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 0px 0px 0 rgba(0, 0, 0, 0.19);
+            border-radius:12px; */
+        }
+        .right-text-bloc-md{
+            padding-top:5%;
+            padding-bottom:5%;
+            padding-left:0%;
+            padding-right:15%;
+            text-align:justify;
+        }
+        .right-image-bloc-md{
+            padding-top:1%;
+            padding-bottom:1%;
+            padding-left:5%;
+            padding-right:5%;
+            height:60%;
+
+            text-align:center;
+
+        }
+
+        .left-text-bloc-md{
+            padding-top:5%;
+            padding-bottom:5%;
+            padding-left:15%;
+            padding-right:0%;
+            text-align:justify;
+        }
+
+        .left-image-bloc-md{
+            padding-top:1%;
+            padding-bottom:1%;
+            padding-left:5%;
+            padding-right:5%;
+            height:60%;
+
+            text-align:center;
+        }
+
+        .btn-chooseme {
+            /* border-radius:25px; */
+            background-color:#bd081c
+        }
+
+        .image {height:510px; position:relative; background-color:none;
+            box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);border: 0px solid #ddd;border-radius:10px;
+        }
+
+        .image-sm {max-width: 100%; max-height:auto; position:relative; background-color:none;
+            box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0), 0 0px 0px 0 rgba(0, 0, 0, 0);border: 0px solid #ddd;border-radius:10px;
+        }
+
+        .content{
+            padding-left:5%;padding-right:5%
+        }
+
+        .content2{
+            padding-left:5%;margin-right: -66px;margin-bottom: -30px;
+        }
+
+        .form-control-choosme{
+            border-color:#eeeeee;
+        }
+
+        .form-control:focus {
+            border-color:#eeeeee;
+            box-shadow:none;
+        }
+
+
+        ::placeholder{
+            color:  #6e6e70 !important;
+        }
+
+        .img-circle{
+            width:30px;
+            height:30px
+        }
+        @media screen and (max-width: 400px) {
+
+            .laptop {
+                display:none;
+            }
+            p {line-height: 25px;font-size:16px;}
+            body {
+                font-family: "Lato", CenturyGothic;
+                overflow-x:hidden;
+                /* color: #484848; */
+            }
+
+            
+
+        }
+
+        @media screen and (max-width: 600px) {
+
+            .laptop {
+                display:none;
+            }
+            p {line-height: 25px;font-size:16px;}
+            body {
+                font-family: "Lato", CenturyGothic;
+                overflow-x:hidden;
+                /* color: #484848; */
+            }
+
+            .fix{
+                position: fixed;
+                top: 0;
+                right: 0;
+                left: 0;
+                z-index: 1030;
+               }
+           
+
+        }
+
+        @media screen and (min-width: 600px) {
+
+            .smartphone {
+                 display:none;
+             }
+
+             p {
+                line-height: 25px;font-size:18px;
+            }
+
+         }
+
+
